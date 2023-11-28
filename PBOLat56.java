@@ -1,12 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package latihan56.umurbarangantik;
-
 /**
  *
  * @author ACER
+ * NAMA     : ALIVIA FATAH YUMNA
+ * KELAS    : PBO RegPagi
+ * NIM      : 22166016
+ * DESKRIPSI PROGRAM : Program ini berisi program untuk menampilkan implementasi coding "umur barang antik"
  */
 public class PBOLat56 {
     private int umur;
